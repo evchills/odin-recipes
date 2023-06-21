@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(93, 166, 88);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 2.0;
+}
+
+div {
+    background-image: url("./recipes/images/katie-evan.jpeg");
+    background-size: 600px;
+    background-position-x: center;
+}
+
+h1, a {
+    color: rgb(255, 255, 255);
+}
+
+a {
+    text-decoration: none;
+    font-weight: 150;
+}
+
+h1 {
+    font-weight: 300;
+    text-align: center;
+}
+
+p, .recipes {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.693);
+    color:rgb(255, 255, 255);
+}
+
+p {
+    line-height: normal;
+}
+
+.recipes {
+    line-height: 6.0;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
